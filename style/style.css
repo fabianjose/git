@@ -1,5 +1,17 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: deeppink;
+    color: rgb(0, 0, 0);
+}
+
+.container{
+    border: 1px solid #000;
+    
+}
+.container h1{
+    color: red;
+}
+
+header{
+ background-color: bisque;
 }
